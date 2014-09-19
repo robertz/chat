@@ -1,0 +1,2024 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"coun",
+				"countryName"
+			],
+			[
+				"portalCOuntry",
+				"portalCountrySel"
+			],
+			[
+				"portalCOuntr",
+				"portalCountrySel"
+			],
+			[
+				"mini",
+				"miniWebsites"
+			],
+			[
+				"siteC",
+				"SiteCntry"
+			],
+			[
+				"meta",
+				"meta	metadata"
+			],
+			[
+				"site",
+				"siteCountry"
+			],
+			[
+				"setPortalName",
+				"setPortalNameChangeData"
+			],
+			[
+				"count",
+				"countries_"
+			],
+			[
+				"selSi",
+				"selSiteCntry"
+			],
+			[
+				"librar",
+				"libraryData"
+			],
+			[
+				"success",
+				"success-update"
+			],
+			[
+				"deacti",
+				"deactivateData"
+			],
+			[
+				"deac",
+				"deactivateData"
+			],
+			[
+				"dea",
+				"deactivate-control"
+			],
+			[
+				"promoSit",
+				"promoSiteTypeSel"
+			],
+			[
+				"promoS",
+				"promoSiteTypeSel"
+			],
+			[
+				"slec",
+				"selectlabel"
+			],
+			[
+				"promoSite",
+				"promoSiteType"
+			],
+			[
+				"promo",
+				"promo-container"
+			],
+			[
+				"display",
+				"displaySiteType"
+			],
+			[
+				"setPromoti",
+				"setPromotionData"
+			],
+			[
+				"get",
+				"getPromotionHistory"
+			],
+			[
+				"proo",
+				"promoSiteType"
+			],
+			[
+				"getPromot",
+				"getPromotionDistHist"
+			],
+			[
+				"isCash",
+				"isCashbackAppld"
+			],
+			[
+				"orderin",
+				"ordering-tools-container"
+			],
+			[
+				"getW",
+				"getWFinalPreviewData"
+			],
+			[
+				"bill",
+				"billAddressContainer"
+			],
+			[
+				"loading",
+				"loading-overlay"
+			],
+			[
+				"shpAdd",
+				"shpAddr3"
+			],
+			[
+				"cards",
+				"cards-on-file"
+			],
+			[
+				"input",
+				"input-danger"
+			],
+			[
+				"mDistr",
+				"mDistrictMap"
+			],
+			[
+				"mdist",
+				"mDistrictOptions"
+			],
+			[
+				"geo",
+				"geoCodeData"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"edit",
+				"editCard"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"req",
+				"required"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"ms",
+				"mState"
+			],
+			[
+				"bills",
+				"billShipInfo"
+			],
+			[
+				"sameA",
+				"sameAsShipping"
+			],
+			[
+				"return",
+				"returntype"
+			],
+			[
+				"deserial",
+				"deserializedData"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.cfm",
+			"settings":
+			{
+				"buffer_size": 1291,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "chat.js",
+			"settings":
+			{
+				"buffer_size": 2514,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "com/kisdigital/chat.cfc",
+			"settings":
+			{
+				"buffer_size": 4132,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "com/kisdigital/chat_old.cfc",
+			"settings":
+			{
+				"buffer_size": 1787,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test.cfm",
+			"settings":
+			{
+				"buffer_size": 67,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Application.cfm",
+			"settings":
+			{
+				"buffer_size": 368,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ajaxProxy.cfc",
+			"settings":
+			{
+				"buffer_size": 763,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"reidin",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reini",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sidebar",
+				"Side Bar: Enable Syncing"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"package control rm",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Side Bar: Disable Syncing"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"jsh",
+				"JSHint: Clear Annotations"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
+				"Snippet: re",
+				"Snippet: render"
+			],
+			[
+				"side",
+				"Side Bar: Refresh"
+			],
+			[
+				"bower",
+				"Bower: Install"
+			],
+			[
+				"isntall p",
+				"Package Control: Install Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"list pakc",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: metadata"
+			],
+			[
+				"autopr",
+				"Autoprefix CSS"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pak",
+				"Package Control: List Packages"
+			],
+			[
+				"install pakc",
+				"Package Control: Install Package"
+			],
+			[
+				"remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pacakges",
+				"Package Control: List Packages"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 450.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"figlet",
+			"view.figlet",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"view.window().run_command('close_cftag');",
+			"view.window().run_command('close_cftag')",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/robertz/Dropbox/Sites/chat",
+		"/C/Users/robertz/Dropbox/Sites/chat/com",
+		"/C/Users/robertz/Dropbox/Sites/chat/com/kisdigital"
+	],
+	"file_history":
+	[
+		"/C/Users/robertz/Dropbox/Sites/chat/chat.sublime-project",
+		"/C/Users/robertz/Dropbox/Sites/chat/chat.js",
+		"/C/Users/robertz/Dropbox/Sites/chat/com/kisdigital/chat_old.cfc",
+		"/C/Users/robertz/Dropbox/Sites/chat/Application.cfm",
+		"/C/Users/robertz/Dropbox/Sites/chat/index.cfm",
+		"/C/Users/robertz/AppData/Local/Temp/FileZillaPortableTemp/fz3temp-1/index.cfm",
+		"/C/Users/robertz/Dropbox/Sites/chat/com/kisdigital/chat.cfc",
+		"/C/Users/robertz/Dropbox/Sites/chat/ajaxProxy.cfc",
+		"//filesrv01/cfstaging/unfranchise/system/model/data/Orders.cfc",
+		"/Z/view/merchant/orderShip.cfm",
+		"/Z/model/data/Orders.cfc",
+		"/Z/view/orders/admin/ordReship2BAddr.cfm",
+		"/Z/controller/desktop/default/services.xml",
+		"/Z/view/u/services/miniWebsites/adminEdit.cfm",
+		"/V/services/miniWebsites/adminEditUSA.cfm",
+		"/Z/model/data/Products.cfc",
+		"/M/data/Products.cfc",
+		"/Z/controller/desktop/default/products.xml",
+		"/M/data/WebPortals.cfc",
+		"/Z/model/data/WebPortals.cfc",
+		"/I/lib/js/promotions.js",
+		"/Z/view/orders/pciRedirect.cfm",
+		"/Z/model/data/Profile.cfc",
+		"/M/services/WebPortals.cfc",
+		"/I/node_modules/grunt-contrib-watch/docs/watch-examples.md",
+		"/Z/view/u/services/miniWebsites/adminEditHKG.cfm",
+		"/K/desktop/default/admin.xml",
+		"/Z/view/reports/adMPA1099.cfm",
+		"/Z/view/news/alertDetail.cfm",
+		"/Z/view/errors/sysError.cfm",
+		"/K/desktop/default/services.xml",
+		"/Y/sappey/sqlContentFiles/12_18_12/products.customCocktail.xml",
+		"/Z/view/gca/products/productSearch.cfm",
+		"/Z/api/image/Product.cfc",
+		"/Z/view/shopping/prodCountrySelectUSA.cfm",
+		"/Z/view/shopping/prodCountrySelectAUS.cfm",
+		"/I/lib/js/unfWebsiteAdmin.js",
+		"/Z/view/u/services/websiteAdmin/list.cfm",
+		"/Z/model/services/WebPortals.cfc",
+		"/Z/view/products/audioDownloads.cfm",
+		"/Z/api/product/SingleDetails.cfc",
+		"/Z/view/stage/caldwell/xpersonal/deployment/live-ibv.cfm",
+		"/Z/model/profile/dist/Portals.cfc",
+		"/Z/controller/desktop/default/orders.xml",
+		"/Z/view/orders/ordInqSummary.cfm",
+		"/I/lib/js/unfChangeDomain.js",
+		"/Z/view/services/uNPOEst.cfm",
+		"/Z/model/data/Utils.cfc",
+		"/Z/view/orders/ordInqDetail.cfm",
+		"/M/Zehnder.cfc",
+		"/Z/model/stage/zehnder/data/WebPortals.cfc",
+		"/V/u/services/coupons/distCoupons.cfm",
+		"/Z/view/orders/dInvoiceAUS.cfm",
+		"/M/services/coupons/DistributorManage.cfc",
+		"/Z/controller/desktop/default/forms.xml",
+		"/Z/model/data/Forms.cfc",
+		"/V/tools/fileView.cfm",
+		"/Z/controller/desktop/cs/learn.xml",
+		"/Z/model/data/Motives.cfc",
+		"/Z/view/cs/learn/skinCareAnalysisResults.cfm",
+		"/Z/view/cs/learn/skinCareAnalysis.cfm",
+		"/Z/model/products/special/SkinCare.cfc",
+		"/Z/view/shopping/ufSkuImages.cfm",
+		"/Z/view/profile/mtaStarterKit.cfm",
+		"/Z/view/profile/multiEntOptTWN.cfm",
+		"/Y/blatchley/lib/js/menu-orig.js",
+		"/S/menu.cfm",
+		"/K/desktop/cs/learn.xml",
+		"/Z/view/services/eDirect/admin/loadEmail.cfm",
+		"/C/Users/robertz/Desktop/chat/Application.cfc",
+		"/Z/model/stage/cunningham/data/WebPortals.cfc",
+		"/C/Users/robertz/Desktop/chat/ajaxProxy.cfc",
+		"/Z/controller/stage/cunningham/desktop/default/orders.xml",
+		"/Z/view/stage/cunningham/u/services/miniWebsites/adminEdit_cunningham.cfm",
+		"/Z/view/stage/bailey/services/Copy of uNPOEst.cfm",
+		"/Z/view/header/ccUSA.cfm",
+		"/Z/model/app/Content.cfc",
+		"/Z/view/mw/account/addressBook/list.cfm",
+		"/Z/view/cs/account/addressBook/list.cfm",
+		"/V/u/services/websiteAdmin/list.cfm",
+		"/V/services/websiteAdmin/list.cfm",
+		"/Z/view/u/services/coupons/distCoupons.cfm",
+		"//filesrv01/cfstaging/unfranchise/system/view/u/services/coupons/distCoupons.cfm",
+		"//filesrv01/cfstaging/unfranchise/system/view/services/coupons/distCoupons.cfm",
+		"/Z/view/services/webPortals/admin/configurationAUS.cfm",
+		"/Z/view/services/webPortals/admin/configurationTWN.cfm",
+		"/Z/view/sourceControl/chkOut.cfm",
+		"/Z/view/services/coupons/distCoupons.cfm",
+		"/V/services/coupons/distCoupons.cfm",
+		"/Z/view/mobile/uj/ufms/dialog-ufms.cfm",
+		"/Z/view/orders/dInvoiceUSA.cfm",
+		"/Z/view/stage/bailey/csDevUnitTestIssues.txt",
+		"/Z/api/stage/christiansen/product/FullDetail.cfc",
+		"/Z/view/forms/pdfDisplay.cfm",
+		"/Z/model/forms/Dist.cfc",
+		"/I/lib/js/promotions.classic.js",
+		"/Z/view/ix/site/free-shipping.cfm",
+		"/Z/view/content/ufSearchExtAUS.cfm",
+		"/Z/view/footer/ufServicesUSA.cfm",
+		"/V/u/services/webPortals/admin/portalNameUSA.cfm",
+		"/Y/bailey/lib/js/autocomplete/Copy of ac-u-usa-eng-npo.js",
+		"/Y/sappey/sqlContentFiles/12_18_12/services.baWhatsNew.xml",
+		"/Y/sappey/sqlContentFiles/12_18_12/services.mwAdminEdit.xml",
+		"/Z/model/data/Serialize.cfc",
+		"/Z/api/Service.cfc",
+		"/Z/view/u/services/webPortals/admin/portalNameUSA.cfm",
+		"/Z/view/u/forms/gsw/portal.cfm",
+		"/S/sgp/u/product.css",
+		"/S/usa/u/postOffice.css",
+		"/I/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/optimist/test/_/argv.js",
+		"/Z/view/services/webPortals/admin/portalNameUSA.cfm",
+		"/M/profile/dist/Portals.cfc",
+		"/Z/view/pointOfSale/posOrder.cfm",
+		"/Y/robinson/mobile/open-orders.html",
+		"/S/usa/j.css",
+		"/Z/view/journal/jePostUSA.cfm",
+		"//filesrv01/cfstaging/unfranchise/system/model/services/WebPortals.cfc",
+		"/V/u/services/webPortals/admin/shopAdmin.cfm",
+		"/Z/model/data/Reports.cfc",
+		"/Z/view/reports/ssHeader.cfm",
+		"/Z/controller/desktop/default/shopping.xml",
+		"/Z/view/pointOfSale/shopProducts.cfm",
+		"/I/Gruntfile.js",
+		"/Z/view/profile/gsEmailContactsAUS.cfm",
+		"/Z/view/profile/gsEmailContactsTWN.cfm",
+		"/Z/model/reports/Navigation.cfc",
+		"/Z/model/reports/Cashback.cfc",
+		"/Z/model/reports/Renewal.cfc"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"Z:\\view\\services\\webPortals",
+			"Z:\\model\\view\\services\\webPortals\\",
+			"Z:\\model\\view\\services\\webPortals\\admin",
+			"Z:\\model\\data",
+			"Z:\\view\\u\\services\\webPortals",
+			"Z:\\view\\",
+			"Z:\\controller\\desktop",
+			"Z:\\controller",
+			"Z:\\model",
+			"<open files>",
+			"V:\\u\\reports",
+			"Z:\\model",
+			"Z:\\view",
+			"Z:\\model\\",
+			"Z:\\controller\\",
+			"Z:\\controller\\desktop\\default",
+			"Z:\\controller",
+			"K:\\",
+			"M:\\",
+			"Z:\\controller",
+			"Z:\\model",
+			"Z:\\view\\",
+			"Z:\\view\\u",
+			"Z:\\view",
+			"Z:\\controller\\desktop\\cs",
+			"Z:\\view\\cs",
+			"Z:\\view\\u\\forms",
+			"Z:\\view",
+			"Z:\\model\\",
+			"Z:\\view\\",
+			"Z:\\view\\cs",
+			"Z:\\model",
+			"V:\\mw\\checkout",
+			"Z:\\model",
+			"V:\\mw\\checkout",
+			"v:\\mw\\cehckout",
+			"S:\\",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" returnFomat='JSON' ",
+			"typeOf",
+			"data",
+			"r.",
+			"r",
+			"data",
+			"shippingChange",
+			"CF",
+			"criteria",
+			"expired",
+			"variables.metadata",
+			"metaData",
+			"=services",
+			"#variables.metaData.(.+)#",
+			"portalCountrySel",
+			"states",
+			"file\"",
+			"file",
+			"conseq",
+			"variables.portals.showAddressPort",
+			"showAddressPort",
+			"\"on\"",
+			"'on",
+			"metaData",
+			"zehnder.",
+			" country=\"USA,SGP\"",
+			"zehnder.",
+			"\"/>",
+			" country=\"USA,SGP\" country=\"USA,SGP\"",
+			" country=\"USA,SGP\"",
+			"setPortalNameChange",
+			"isEnabled",
+			"variables.metadata",
+			" country=\"USA,SGP\"",
+			"development",
+			"['banner",
+			"setAbort",
+			"writeDump",
+			"addrMap",
+			"writeDump",
+			"<form",
+			"isEnabled",
+			"#request.content.render('businessName')#",
+			"#request.content.render('busName')#",
+			"#request.content.render('businessName')#",
+			"selectLabel",
+			"#variables.metaData.(.+)#",
+			"portalCountry",
+			"unfWPAdmin",
+			"#variables.metaData.(.+)#",
+			"upton.",
+			"getPortalRegData(",
+			"getCat1Data(",
+			"getProdGroups",
+			"getDblByteProdGroups(",
+			"getDblByteCSCatAddEdit(",
+			"get.cat.",
+			"GET.CAT.CODES",
+			"GET.CS.CAT.DETAIL.NLS",
+			"SET.CS.CAT.DETAIL.NLS",
+			"'distributorLocation'",
+			"distributorLocation",
+			"distributorID",
+			"variables.meta",
+			"variables.metaData",
+			"#variables.metaData.(.+)#",
+			"#variables.metadata.(.+)#",
+			"#variables.metaData.(.+)#",
+			"variables.metaData.[:alnum:]^#",
+			"variables.metaData.(+.?!\\\")",
+			"#variables.metaData.(.+)\\]",
+			" type=\"in\",",
+			"caret",
+			"getLang",
+			"portals.",
+			"getMWSData",
+			"getMSWData",
+			"metadata",
+			"u.menu,",
+			"zehnder.",
+			"8/22/2014",
+			"DEVELOPMENT",
+			"##",
+			"zehnder.",
+			"cunningham",
+			"gatewayID",
+			"setAbort",
+			"contentCatCodes",
+			"setAbort",
+			"portals",
+			"upton",
+			"cook",
+			"cook.",
+			"XX/XX/2014",
+			"Jason Cook",
+			"metadata",
+			"frmData",
+			"dev",
+			"change",
+			"zehnder.",
+			" class=\"tc\"",
+			"promotions.min.css",
+			"zehnder.",
+			"metadata",
+			"10",
+			"setAbort",
+			"develop",
+			"cook.",
+			"ordTotal",
+			"currCntry",
+			"ordStatus",
+			"pmtType",
+			"ordDate",
+			"ordType",
+			"ordShpName",
+			"ordReference",
+			"ordInvoice",
+			"ordNumber",
+			"userManager.setProperty(\"portalID",
+			"getOrderInquiryData",
+			"portalIDShort",
+			"getJoin",
+			"getWaitingStep(",
+			"site=\"UJ",
+			"invite",
+			"joint",
+			"/join/",
+			"fast start"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"'unFranchiseOwnerLocation'",
+			"8/22/2014",
+			"<a href=\"//images.marketamerica.com/site/",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.cfm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1291,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								443,
+								443
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/User/ColdFusion/HTML+CFML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "chat.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								589,
+								589
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1176.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "com/kisdigital/chat.cfc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1534,
+								1534
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/User/ColdFusion/ColdFusionCFC.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 756.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "com/kisdigital/chat_old.cfc",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1787,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/User/ColdFusion/ColdFusionCFC.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "test.cfm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 67,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/User/ColdFusion/HTML+CFML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Application.cfm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								275,
+								275
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/User/ColdFusion/HTML+CFML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "ajaxProxy.cfc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 763,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11,
+								11
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/User/ColdFusion/ColdFusionCFC.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "chat.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"chat.js",
+				"chat.js"
+			],
+			[
+				"chat.cfc",
+				"com\\kisdigital\\chat.cfc"
+			],
+			[
+				"orders.cfc",
+				"Z\\model\\data\\Orders.cfc"
+			],
+			[
+				"products.cfc",
+				"M\\data\\Products.cfc"
+			],
+			[
+				"webportals.cfc",
+				"Z\\model\\data\\WebPortals.cfc"
+			],
+			[
+				"admineditusa.cfm",
+				"V\\services\\miniWebsites\\adminEditUSA.cfm"
+			],
+			[
+				"adminedit.cfm",
+				"Z\\view\\u\\services\\miniWebsites\\adminEdit.cfm"
+			],
+			[
+				"services.xml",
+				"Z\\controller\\desktop\\default\\services.xml"
+			],
+			[
+				"prodcuts.cfc",
+				"Z\\model\\data\\Products.cfc"
+			],
+			[
+				"products/audiodonwlo",
+				"Z\\view\\products\\audioDownloads.cfm"
+			],
+			[
+				"products.xml",
+				"Z\\controller\\desktop\\default\\products.xml"
+			],
+			[
+				"services/webportals.cfc",
+				"Z\\model\\services\\WebPortals.cfc"
+			],
+			[
+				"list.cfm",
+				"Z\\view\\u\\services\\websiteAdmin\\list.cfm"
+			],
+			[
+				"unfwebsite",
+				"I\\lib\\js\\unfWebsiteAdmin.js"
+			],
+			[
+				"ordinqsummary.cfm",
+				"Z\\view\\orders\\ordInqSummary.cfm"
+			],
+			[
+				"dist/portals.cfc",
+				"Z\\model\\profile\\dist\\Portals.cfc"
+			],
+			[
+				"forms.xml",
+				"Z\\controller\\desktop\\default\\forms.xml"
+			],
+			[
+				"orders.xml",
+				"Z\\controller\\desktop\\default\\orders.xml"
+			],
+			[
+				"skincareanalysisresults.cfm",
+				"Z\\view\\cs\\learn\\skinCareAnalysisResults.cfm"
+			],
+			[
+				"motives.cfc",
+				"Z\\model\\data\\Motives.cfc"
+			],
+			[
+				"learn.xml",
+				"Z\\controller\\desktop\\cs\\learn.xml"
+			],
+			[
+				"cunningham/webportals.cfc",
+				"Z\\model\\stage\\cunningham\\data\\WebPortals.cfc"
+			],
+			[
+				"distcoupons.cfm",
+				"Z\\view\\u\\services\\coupons\\distCoupons.cfm"
+			],
+			[
+				"promotions.js",
+				"I\\lib\\js\\promotions.js"
+			],
+			[
+				"promotions.classic.js",
+				"I\\lib\\js\\promotions.classic.js"
+			],
+			[
+				"u/portalnameusa.cfm",
+				"Z\\view\\u\\services\\webPortals\\admin\\portalNameUSA.cfm"
+			],
+			[
+				"portalnameusa.cfm",
+				"Z\\view\\services\\webPortals\\admin\\portalNameUSA.cfm"
+			],
+			[
+				"reports/navi",
+				"Z\\model\\reports\\Navigation.cfc"
+			],
+			[
+				"reports.cfc",
+				"Z\\model\\data\\Reports.cfc"
+			],
+			[
+				"config/access",
+				"Z\\model\\config\\Access.cfc"
+			],
+			[
+				"access.cfc",
+				"Z\\api\\customer\\Access.cfc"
+			],
+			[
+				"reports.xml",
+				"Z\\controller\\desktop\\default\\reports.xml"
+			],
+			[
+				"shopadmin.cfm",
+				"V\\u\\services\\webPortals\\admin\\shopAdmin.cfm"
+			],
+			[
+				"ug/shopadmin.cfm",
+				"V\\ug\\services\\webPortals\\admin\\shopAdmin.cfm"
+			],
+			[
+				"distcoupons",
+				"V\\services\\coupons\\distCoupons.cfm"
+			],
+			[
+				"distcoup",
+				"V\\u\\services\\coupons\\distCoupons.cfm"
+			],
+			[
+				"metadata.cfc",
+				"Z\\model\\data\\MetaData.cfc"
+			],
+			[
+				"content.cfc",
+				"Z\\model\\app\\Content.cfc"
+			],
+			[
+				"distributormanage.cfc",
+				"Z\\model\\services\\coupons\\DistributorManage.cfc"
+			],
+			[
+				"portalnameusa",
+				"V\\u\\services\\webPortals\\admin\\portalNameUSA.cfm"
+			],
+			[
+				"services/webportals",
+				"Z\\model\\services\\WebPortals.cfc"
+			],
+			[
+				"admin.xml",
+				"K\\desktop\\default\\admin.xml"
+			],
+			[
+				"tools.xml",
+				"K\\desktop\\cs\\tools.xml"
+			],
+			[
+				"tools.cfc",
+				"M\\personal\\Tools.cfc"
+			],
+			[
+				"services.",
+				"Z\\controller\\desktop\\default\\services.xml"
+			],
+			[
+				"ibvplacement.cfm",
+				"Z\\view\\forms\\ibvPlacement.cfm"
+			],
+			[
+				"forms.cfc",
+				"Z\\model\\data\\Forms.cfc"
+			],
+			[
+				"register.cfm",
+				"V\\u\\services\\webPortals\\admin\\register.cfm"
+			],
+			[
+				"configurationtwn",
+				"Z\\view\\services\\webPortals\\admin\\configurationTWN.cfm"
+			],
+			[
+				"",
+				"K\\desktop\\cs\\learn.xml"
+			],
+			[
+				"adlmeida",
+				"Z\\view\\products\\admin\\adlMedia.cfm"
+			],
+			[
+				"services/webportals.",
+				"M\\services\\WebPortals.cfc"
+			],
+			[
+				"profile.cfc",
+				"Z\\model\\data\\Profile.cfc"
+			],
+			[
+				"profile.xml",
+				"Z\\controller\\desktop\\default\\profile.xml"
+			],
+			[
+				"data/webportals.cfc",
+				"Z\\model\\data\\WebPortals.cfc"
+			],
+			[
+				"portalnamesgp.cfm",
+				"V\\u\\services\\webPortals\\admin\\portalNameSGP.cfm"
+			],
+			[
+				"cunningham/webportals.fc",
+				"Z\\model\\stage\\cunningham\\data\\WebPortals.cfc"
+			],
+			[
+				"nutrametrix.xml",
+				"Z\\controller\\desktop\\default\\nutraMetrix.xml"
+			],
+			[
+				"servicesx.ml",
+				"K\\desktop\\default\\services.xml"
+			],
+			[
+				"cunningham/products.cfc",
+				"Z\\model\\stage\\cunningham\\data\\Products.cfc"
+			],
+			[
+				"unfwebsitead",
+				"I\\lib\\js\\unfWebsiteAdmin.js"
+			],
+			[
+				"cunningham/maadmin.cfm",
+				"Z\\view\\stage\\cunningham\\u\\services\\webPortals\\admin\\maAdmin.cfm"
+			],
+			[
+				"cunningham/services.xml",
+				"Z\\controller\\stage\\cunningham\\desktop\\default\\services.xml"
+			],
+			[
+				"utils",
+				"Z\\model\\data\\Utils.cfc"
+			],
+			[
+				"webportals",
+				"Z\\model\\data\\WebPortals.cfc"
+			],
+			[
+				"unfchangdoma",
+				"I\\lib\\js\\unfChangeDomain.js"
+			],
+			[
+				"configurationbr.cfm",
+				"V\\u\\services\\webPortals\\admin\\configurationBR.cfm"
+			],
+			[
+				"portalnamesgp",
+				"V\\u\\services\\webPortals\\admin\\portalNameSGP.cfm"
+			],
+			[
+				"unfwebsiteadmin",
+				"I\\lib\\js\\unfWebsiteAdmin.js"
+			],
+			[
+				"wpportalnameusa",
+				"V\\u\\services\\webPortals\\admin\\portalNameUSA.cfm"
+			],
+			[
+				"changedomain.cfm",
+				"Z\\view\\u\\services\\miniWebsites\\changeDomain.cfm"
+			],
+			[
+				"services.x",
+				"Z\\controller\\desktop\\default\\services.xml"
+			],
+			[
+				"servies.xml",
+				"K\\desktop\\default\\services.xml"
+			],
+			[
+				"portalname",
+				"Z\\view\\u\\services\\webPortals\\admin\\portalNameUSA.cfm"
+			],
+			[
+				"billshipajax.cfm",
+				"Z\\view\\u\\orders\\billShipAJAX.cfm"
+			],
+			[
+				"adminedithkg",
+				"Z\\view\\u\\services\\miniWebsites\\adminEditHKG.cfm"
+			],
+			[
+				"services/webp",
+				"M\\services\\WebPortals.cfc"
+			],
+			[
+				"configurationusa",
+				"Z\\view\\u\\services\\webPortals\\admin\\configurationUSA.cfm"
+			],
+			[
+				"services/web",
+				"M\\services\\WebPortals.cfc"
+			],
+			[
+				"zehnder/services/webportals.cfc",
+				"Z\\model\\stage\\zehnder\\services\\WebPortals.cfc"
+			],
+			[
+				"cmwsadminedit.cfm",
+				"V\\services\\miniWebsites\\cmwsAdminEdit.cfm"
+			],
+			[
+				"activetable",
+				"Z\\view\\u\\services\\coupons\\activeTable.cfm"
+			],
+			[
+				"configurationusa.cfm",
+				"V\\u\\services\\webPortals\\admin\\configurationUSA.cfm"
+			],
+			[
+				"distributorman",
+				"M\\services\\coupons\\DistributorManage.cfc"
+			],
+			[
+				"configurationsgp.cfm",
+				"Z\\view\\u\\services\\webPortals\\admin\\configurationSGP.cfm"
+			],
+			[
+				"portals.cfc",
+				"M\\profile\\dist\\Portals.cfc"
+			],
+			[
+				"cunningham/tracking.cfc",
+				"Z\\model\\stage\\cunningham\\orders\\Tracking.cfc"
+			],
+			[
+				"services/webportal",
+				"M\\services\\WebPortals.cfc"
+			],
+			[
+				"unfwebsi",
+				"I\\lib\\js\\unfWebsiteAdmin.js"
+			],
+			[
+				"zehnder/dist/portal.cfc",
+				"Z\\model\\stage\\zehnder\\profile\\dist\\Portals.cfc"
+			],
+			[
+				"logins.",
+				"V\\logins.txt"
+			],
+			[
+				"portalnamesuccess.cfm",
+				"Z\\view\\u\\services\\webPortals\\admin\\portalNameSuccess.cfm"
+			],
+			[
+				"admin.cfc",
+				"Z\\model\\data\\Admin.cfc"
+			],
+			[
+				"utils.cfc",
+				"Z\\model\\data\\Utils.cfc"
+			],
+			[
+				"_header.cfm",
+				"V\\tools\\_header.cfm"
+			],
+			[
+				"renewal.cfc",
+				"M\\reports\\Renewal.cfc"
+			],
+			[
+				"file",
+				"V\\tools\\fileView.cfm"
+			],
+			[
+				"checkout.xml",
+				"K\\desktop\\cs\\checkout.xml"
+			],
+			[
+				"renewal",
+				"Z\\model\\reports\\Renewal.cfc"
+			],
+			[
+				"annualrenewalreport",
+				"Z\\view\\u\\reports\\annualRenewalReport.cfm"
+			],
+			[
+				"nheaderusa",
+				"Z\\view\\u\\reports\\nheaderUSA.cfm"
+			],
+			[
+				"nheaderusa.cfm",
+				"Z\\view\\reports\\nheaderUSA.cfm"
+			],
+			[
+				"annualrene",
+				"Z\\view\\reports\\annualRenewalReport.cfm"
+			],
+			[
+				"cunningham/utils.cfc",
+				"Z\\model\\stage\\cunningham\\data\\Utils.cfc"
+			],
+			[
+				"configurationsgp",
+				"V\\u\\services\\webPortals\\admin\\configurationSGP.cfm"
+			],
+			[
+				"zehnder/webportals.cfc",
+				"Z\\model\\stage\\zehnder\\data\\WebPortals.cfc"
+			],
+			[
+				"cunningham/orders.cfc",
+				"Z\\model\\stage\\cunningham\\data\\Orders.cfc"
+			],
+			[
+				"cunningham/forms.xml",
+				"Z\\controller\\stage\\cunningham\\desktop\\default\\forms.xml"
+			],
+			[
+				"annualrenew",
+				"Z\\view\\reports\\annualRenewalReport.cfm"
+			],
+			[
+				"wbportals.cfc",
+				"Z\\model\\data\\WebPortals.cfc"
+			],
+			[
+				"changedomain",
+				"V\\u\\services\\miniWebsites\\changeDomain.cfm"
+			],
+			[
+				"cunningham/products.xml",
+				"Z\\controller\\stage\\cunningham\\desktop\\default\\products.xml"
+			],
+			[
+				"cunningham/orders.xml",
+				"Z\\controller\\stage\\cunningham\\desktop\\default\\orders.xml"
+			],
+			[
+				"websiteadmin.js",
+				"I\\lib\\js\\unfWebsiteAdmin.js"
+			],
+			[
+				"services/webporta",
+				"M\\services\\WebPortals.cfc"
+			],
+			[
+				"contentcfc",
+				"M\\data\\Content.cfc"
+			],
+			[
+				"appmaindatastore",
+				"M\\cache\\AppMainDataStore.cfc"
+			],
+			[
+				"webport",
+				"M\\data\\WebPortals.cfc"
+			],
+			[
+				"appmaindatas",
+				"Z\\model\\cache\\AppMainDataStore.cfc"
+			],
+			[
+				"appmain",
+				"Z\\model\\data\\AppMain.cfc"
+			],
+			[
+				"email.cfc",
+				"Z\\model\\services\\Email.cfc"
+			],
+			[
+				"cs/site/con",
+				"Z\\view\\cs\\site\\contactUs.cfm"
+			],
+			[
+				"site.xml",
+				"Z\\controller\\desktop\\cs\\site.xml"
+			],
+			[
+				"promotions",
+				"I\\lib\\js\\promotions.js"
+			],
+			[
+				"services/list.cfm",
+				"V\\services\\websiteAdmin\\list.cfm"
+			],
+			[
+				"admineditsgp",
+				"Z\\view\\stage\\cunningham\\u\\services\\miniWebsites\\adminEditSGP.cfm"
+			],
+			[
+				"services.ml",
+				"Z\\controller\\desktop\\default\\services.xml"
+			],
+			[
+				"cunningham/admin.cfc",
+				"Z\\model\\stage\\cunningham\\data\\Admin.cfc"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\robertz\\Documents\\Sublime Projects\\Work-st3.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
