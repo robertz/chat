@@ -1,13 +1,13 @@
 component {
  remote function put(required string message, required string userID){
-  var message = { 'userid' = arguments.userID, 'message' = arguments.message };
-  return getChat().putMessage(message);
+  var messageObj = { 'userid' = arguments.userID, 'message' = arguments.message };
+  return getChat().putMessage(messageObj);
  }
 
  remote function list(numeric startID = 0){
   var result = { 'svrStatus' = 0, 'svrMessage' = "OK" };
   structAppend(result, getChat().getMessages(startID = arguments.startID));
-  result['clients'] = getChat().getClients()
+  result['clients'] = getChat().getClients();
   return result;
  }
 
