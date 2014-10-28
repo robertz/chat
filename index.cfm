@@ -27,6 +27,9 @@
       <div id="chatDiv" style="height: 300px; border: 1px solid gray; overflow: auto;"></div>
       <br />
       <input class="form-control" id="message" type="text" />
+      <select id="roomsel">
+        <option value="general">General</option>
+      </select>
      </div>
      <div class="col-md-2">
       <div id="userList" style="height: 300px; border: 1px solid gray; overflow: auto;"></div>

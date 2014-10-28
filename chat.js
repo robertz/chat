@@ -8,6 +8,8 @@
   $win = $('#chatDiv');
   $msg = $('#message');
   $send = $('#send');
+  $rm = $('#roomsel');
+
   if(userName == ''){
    $('#nameContainer').show();
   }
@@ -51,7 +53,8 @@
    data  : {
     method : 'put',
     userid: userName,
-    message : $msg.val()
+    message : $msg.val(),
+    roomid: $rm.val()
    },
    success : function(data){
     getMessages();
