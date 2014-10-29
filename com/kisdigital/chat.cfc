@@ -3,6 +3,9 @@ component name="chat" accessors="false" {
     public chat function init(){
         variables.history = [];
         variables.clients = [];
+        // What clients are in which rooms
+        variables.clientsByRoom = {};
+
         variables.rooms = [];
         variables.messageCount = 0; // The ID of the last message
         variables.birth = Now();
@@ -31,7 +34,7 @@ component name="chat" accessors="false" {
         return result;
     }
 
-    public boolean function putMessage(required struct message, string type = 'message', string room = 'general', boolean manage = true){
+    public boolean function putMessage(required struct message, string type = 'message', boolean manage = true){
         lock name='lockForWritingMessage' type='exclusive' timeout='5' {
             variables.messageCount++;
             var cleanedMessage = {
@@ -40,14 +43,14 @@ component name="chat" accessors="false" {
                 ,'type' = arguments.type
                 ,'message' = stripHTML(arguments.message.message)
                 ,'msgid' = variables.messageCount
-                ,'roomid' = arguments.room
+                ,'roomid' = arguments.message.room
             };
             arrayAppend(variables.history, cleanedMessage);
             if(arrayLen(variables.history) > 100) arrayDeleteAt(variables.history, 1);
         }
         // if the room does not exist, add it
-        if(!arrayFind(variables.rooms, arguments.room)){
-            arrayAppend(variables.rooms, arguments.room);
+        if(!arrayFind(variables.rooms, arguments.message.room)){
+            arrayAppend(variables.rooms, arguments.message.room);
         }
         // Now update the client stuff
         if(arguments.manage) clientManager(arguments.message.userid);
@@ -74,7 +77,7 @@ component name="chat" accessors="false" {
                 clientCount++;
                 result = {'svrStatus' = '0', 'svrMessage' = 'OK'};
                 session.userid = arguments.userid;
-                putMessage(message = { 'userid' = 'SYSTEM', 'message' = '*** User ' & arguments.userid & ' has joined the chat'}, type = 'notice', manage = false);
+                putMessage(message = { 'userid' = 'SYSTEM', 'message' = '*** User ' & arguments.userid & ' has joined the chat', 'room' = 'lobby'}, type = 'notice', manage = false);
             }
             else{
                 result = {'svrStatus' = '-1', 'svrMessage' = 'That userid is already being used or is reserved!'};
@@ -85,7 +88,7 @@ component name="chat" accessors="false" {
 
     // Adds a room for chat
     public void function addRoom(required string room){
-
+        arrayAppend(variables.rooms, arguments.room);
     }
 
     // get a list of connected clients
@@ -132,7 +135,7 @@ component name="chat" accessors="false" {
             // Time for some pruning
             for(i = clientCount; i > 0; i--){
                 if(abs(dateDiff("n", now(), variables.clients[i].lastUpdated)) gt 1){
-                    putMessage(message = { 'userid' = 'SYSTEM', 'message' = '*** User ' & variables.clients[i].userid & ' removed from the system for inactivity'}, type = 'notice', manage = false);
+                    putMessage(message = { 'userid' = 'SYSTEM', 'message' = '*** User ' & variables.clients[i].userid & ' removed from the system for inactivity', 'room' = 'lobby'}, 'type' = 'notice', manage = false);
                     arrayDeleteAt(variables.clients, i);
                 }
             }

@@ -28,7 +28,6 @@
       <br />
       <input class="form-control" id="message" type="text" />
       <select id="roomsel">
-        <option value="general">General</option>
       </select>
      </div>
      <div class="col-md-2">
