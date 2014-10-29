@@ -4,47 +4,47 @@
  var refreshTimer;
  knownRooms = [];
 
- $(document).ready(function(){
-  $get = $('#getMsgs');
-  $win = $('#chatDiv');
-  $msg = $('#message');
-  $send = $('#send');
-  $rm = $('#roomsel');
+$(document).ready(function(){
+	$get = $('#getMsgs');
+	$win = $('#chatDiv');
+	$msg = $('#message');
+	$send = $('#send');
+	$rm = $('#roomsel');
 
-  if(userName == ''){
-   $('#nameContainer').show();
-  }
-  else{
-   $('#messageContainer').show();
-   getMessages();
-  }
+	if(userName == ''){
+		$('#nameContainer').show();
+	}
+	else{
+		$('#messageContainer').show();
+		getMessages();
+	}
 
-  $msg.focus();
-  $(document)
-   .on('click', '#setName', function(){
-     if( $('#userName').val().length){
-     userName = $('#userName').val();
-     $.ajax({
-       url: 'ajaxProxy.cfc'
-      ,async: false
-      ,data: {
-         userid: userName
-        ,method: 'setUser'
-       }
-      ,cache: false
-     });
-     $('#nameContainer').hide();
-     $('#messageContainer').show();
-     getMessages();
-    }
-    else{
-     alert('For real?!? Nah, you\'re kidding.  Enter a name.');
-    }
-   })
-   .on('keyup', function(e){
-    if($('#message').is(':focus') && (e.keyCode == 13)) postMessage();
-   });
- });
+	$msg.focus();
+	$(document)
+		.on('click', '#setName', function(){
+			if( $('#userName').val().length){
+				userName = $('#userName').val();
+				$.ajax({
+					url: 'ajaxProxy.cfc'
+					,async: false
+					,data: {
+					userid: userName
+					,method: 'setUser'
+					}
+					,cache: false
+				});
+				$('#nameContainer').hide();
+				$('#messageContainer').show();
+				getMessages();
+			}
+			else{
+				alert('For real?!? Nah, you\'re kidding.  Enter a name.');
+			}
+		})
+		.on('keyup', function(e){
+			if($('#message').is(':focus') && (e.keyCode == 13)) postMessage();
+		});
+});
 
 
  function postMessage(){
@@ -125,6 +125,6 @@ function getMessages(){
 	refreshTimer = window.setTimeout("getMessages()", 2000);
 }
 
- function setScroll(){
-  $('#chatDiv').prop('scrollTop', $('#chatDiv').prop('scrollHeight'));
- }
+function setScroll(){
+	$('#chatDiv').prop('scrollTop', $('#chatDiv').prop('scrollHeight'));
+}
